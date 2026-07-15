@@ -1,0 +1,8 @@
+baseURL = ''
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'hugo-theme-stack-4.0.0'
+[params]
+  mainSections = ['posts']
+  homepage = 'list'          
+  paginate = 5               
