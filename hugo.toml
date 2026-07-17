@@ -1,6 +1,6 @@
 baseURL = 'https://yirmistu.github.io/pircson/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'My New Hugo Project，测验是否自动部署'
 theme = 'hugo-theme-stack-4.0.0'
 [params]
   mainSections = ['posts']
